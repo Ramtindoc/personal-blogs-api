@@ -10,4 +10,4 @@ used this program : CRUD and async function to retrieve data /
 
 this project is a sample and got ideas this <ins>website</ins> : https://roadmap.sh/backend/project-ideas /
 
-** don't forget to install package . you can used in terminall 'npm install' ** 
+**don't forget to install package . you can used in terminall 'npm install'** 
